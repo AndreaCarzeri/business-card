@@ -1,6 +1,6 @@
 # Andrea Carzeri's Business Card
 
-![Business Card](https://link.to/your/image)
+![Business Card](src/assets/Sample.png)
 
 ## Description
 This project is a simple implementation of my personal business card using React. I created it as a learning exercise to practice building a React application and familiarize myself with the React framework.
