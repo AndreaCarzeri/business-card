@@ -1,8 +1,9 @@
 {
   "name": "business-card",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
+  "homepage": "https://andreacarzeri.github.io/business-card",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
