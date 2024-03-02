@@ -1,0 +1,24 @@
+footer{
+    background-color: #15151a;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+}
+
+.LittleLink{
+    padding: 2px;
+    width: 100px;
+}
+
+.LittleLink > div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
