@@ -29,7 +29,7 @@ function App() {
         content="I am a young developer, I am passionate about technology and I am always looking for new challenges." />
       <Description
         title="Interests"
-        content="I am a young developer, I am passionate about technology and I am always looking for new challenges."/>
+        content="I am a young developer, I am passionate about technology and I am always looking for new challenges. Helo"/>
       <Footer />
     </div>
   );

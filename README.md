@@ -35,7 +35,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Acknowledgements
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
 - [Vite](https://vitejs.dev/) - A build tool that provides a fast development server and optimized production builds for modern web applications.
-- [Unsplash](https://unsplash.com/) - Source of high-quality, royalty-free images used in templates.
 
 ## Contact
 For questions or inquiries, please contact [Andrea Carzeri](mailto:andreacarzeri@example.com).
