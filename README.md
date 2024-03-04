@@ -22,8 +22,8 @@ This project is a simple implementation of my personal business card using React
 3. Install dependencies: `npm install`
 
 ## Usage
-1. Start the development server: `npm start`
-2. Open your web browser and go to `http://localhost:3000`
+1. Start the development server: `npm run dev`
+2. Open your web browser and go to `http://localhost:5173/business-card/`
 3. View my business card and explore the code to see how it was built.
 
 ## Contributing
@@ -37,4 +37,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 - [Vite](https://vitejs.dev/) - A build tool that provides a fast development server and optimized production builds for modern web applications.
 
 ## Contact
-For questions or inquiries, please contact [Andrea Carzeri](mailto:andreacarzeri@example.com).
+For questions or inquiries, please contact [Andrea Carzeri](mailto:andreacarzeri@gmail.com).

@@ -6,7 +6,11 @@ import Description from "./components/Description";
 import email from "./assets/email.png";
 import linkedin from "./assets/linkedin-app-white-icon.png";
 
+
 function App() {
+  const handleClick = (linkName) => {
+    alert(`Not yet ${linkName}`);
+  };
   return (
     <div className="content">
       <Presentation />
@@ -22,14 +26,17 @@ function App() {
           link=""
           image={linkedin}
           className="link-button link-button-right"
+          onClick={() => handleClick("LinkedIn")}
         />
       </div>
       <Description
         title="About"
-        content="I am a young developer, I am passionate about technology and I am always looking for new challenges." />
+        content="I am a young developer, I am passionate about technology and I am always looking for new challenges."
+      />
       <Description
         title="Interests"
-        content="I am a young developer, I am passionate about technology and I am always looking for new challenges. Helo"/>
+        content="I am a young developer, I am passionate about technology and I am always looking for new challenges. Helo"
+      />
       <Footer />
     </div>
   );
