@@ -1,4 +1,4 @@
-import "../Footer.css";
+import "../styles/Footer.css";
 import LittleLink from "./LittleLink";
 import github from "../assets/icons8-github-48.png";
 import linkedin from "../assets/icons8-linkedin-48.png";

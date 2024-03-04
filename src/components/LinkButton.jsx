@@ -1,4 +1,4 @@
-import "../LinkButton.css";
+import "../styles/LinkButton.css";
 import PropTypes from 'prop-types'; // Importa PropTypes
 
 

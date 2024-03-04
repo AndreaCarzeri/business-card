@@ -1,5 +1,5 @@
 import PropTypes from "prop-types"; // Importa PropTypes
-import "../Description.css";
+import "../styles/Description.css";
 
 Description.propTypes = {
   title: PropTypes.string.isRequired, // name deve essere una stringa e obbligatorio

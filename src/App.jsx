@@ -31,11 +31,11 @@ function App() {
       </div>
       <Description
         title="About"
-        content="I am a young developer, I am passionate about technology and I am always looking for new challenges."
+        content="I'm a young developer, passionate about technology, always seeking new challenges."
       />
       <Description
         title="Interests"
-        content="I am a young developer, I am passionate about technology and I am always looking for new challenges. Helo"
+        content="I enjoy primarily backend development, but also frontend, collaborating in teams, and continuously expanding my knowledge."
       />
       <Footer />
     </div>
